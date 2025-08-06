@@ -1,13 +1,13 @@
 # 📺 YouTube Trends Analysis with Python
 
-## 📌 Overview
+## Overview
 This project analyzes **YouTube Trending Videos in Kenya** using the YouTube Data API v3.  
 The aim is to explore trends in content categories, engagement metrics (views, likes, comments), upload times, and creator activity.  
 The analysis is done **end-to-end** in Python — from data collection via API, to cleaning, exploratory data analysis (EDA), visualization, and insight generation.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Collect trending video data for Kenya using the YouTube Data API.
 - Identify the most popular content categories.
 - Compare engagement metrics (views, likes, comments) across categories.
@@ -16,7 +16,7 @@ The analysis is done **end-to-end** in Python — from data collection via API, 
 
 ---
 
-## 📊 Data Source
+## Data Source
 - **YouTube Data API v3**:  
   Documentation → [https://developers.google.com/youtube/v3](https://developers.google.com/youtube/v3)  
 - Parameters used:
@@ -26,7 +26,7 @@ The analysis is done **end-to-end** in Python — from data collection via API, 
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - **Python**
 - **Pandas** – data manipulation
 - **Matplotlib / Seaborn / Plotly** – visualization
@@ -36,7 +36,7 @@ The analysis is done **end-to-end** in Python — from data collection via API, 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```plaintext
 youtube-trends-analysis-with-python/
 │
@@ -74,4 +74,11 @@ pip install -r requirements.txt
 YOUTUBE_API_KEY=your_api_key_here
 ```
 Get an API key from [Google Cloud Console.](https://console.cloud.google.com/)
+
+# License
+This project is licensed under the MIT License.
+
+# Author
+[Samuel Mati](https://github.com/samuel-mati)
+[LinkedIn](https://www.linkedin.com/in/samuel-mati/) | [Portfolio](https://sam-analyst.vercel.app/)
 
