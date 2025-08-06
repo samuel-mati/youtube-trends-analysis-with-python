@@ -80,5 +80,6 @@ This project is licensed under the MIT License.
 
 # Author
 [Samuel Mati](https://github.com/samuel-mati)
+
 [LinkedIn](https://www.linkedin.com/in/samuel-mati/) | [Portfolio](https://sam-analyst.vercel.app/)
 
