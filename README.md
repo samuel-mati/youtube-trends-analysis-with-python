@@ -5,6 +5,7 @@ This project analyzes **YouTube Trending Videos in Kenya** using the YouTube Dat
 The aim is to explore trends in content categories, engagement metrics (views, likes, comments), upload times, and creator activity.  
 The analysis is done **end-to-end** in Python — from data collection via API, to cleaning, exploratory data analysis (EDA), visualization, and insight generation.
 
+(visuals/Youtube Trends Analysis.png)[ThumbNail]
 ---
 
 ## Objectives
