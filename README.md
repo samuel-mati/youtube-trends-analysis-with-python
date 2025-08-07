@@ -63,11 +63,11 @@ The analysis is done **end-to-end** in Python — from data collection via API, 
 - **Views ↔ Comments**: 0.76 – positive correlation.
 
 ### 7. **Distributions**
-- Most videos have **< 1 million views**, but a few go viral with **5M+ views**.
+- Most videos have **<= 1 million views**, but a few go viral with **5M+ views**.
 - **Like and comment counts** are heavily right-skewed, with most videos under **100K likes** and **50K comments**.
 
 ### 8. **Video Length vs Views**
-- **Shorter videos (<10 mins)** are more likely to trend.
+- **Shorter videos (<5 mins)** are more likely to trend.
 - **Very long videos (>30 mins)** underperform in trending metrics.
 ---
 
@@ -78,7 +78,7 @@ youtube-trends-analysis-with-python/
 ├── data/
 │   ├── raw/           # Raw API data (CSV/JSON)
 │   ├── processed/     # Cleaned data
-│
+│   
 ├── notebooks/
 │   ├── 01_data_collection.ipynb
 │   ├── 02_data_cleaning.ipynb
