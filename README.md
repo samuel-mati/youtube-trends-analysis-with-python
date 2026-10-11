@@ -160,6 +160,3 @@ The same creators show up in trending results far more often than chance would p
 - Build an automated dashboard that refreshes daily from the API for ongoing monitoring.
 - Add sentiment analysis on comments to measure audience reaction, not just volume.
 
----
-
-## Project Structure
